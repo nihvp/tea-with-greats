@@ -2,3 +2,5 @@
 ☕️ - Linus Torvalds
 ☕️ - PewDiePie
 ☕️ - Guido van Rossum
+☕️ - Tom Preston-Werner
+☕️ - Ryan Dahl
