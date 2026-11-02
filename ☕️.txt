@@ -4,3 +4,4 @@
 ☕️ - Guido van Rossum
 ☕️ - Tom Preston-Werner
 ☕️ - Ryan Dahl
+☕️ - Brendan Eich
